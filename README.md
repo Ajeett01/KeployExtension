@@ -43,7 +43,7 @@ Keploy is an advanced VSCode extension tailored to streamline your end-to-end te
   
 ### Video Tutorial
 
-[![Getting Started with Quix AI](https://drive.google.com/file/d/19cTe077Gzy1fRy67TOCV87jyw47X6QyO/view?usp=sharing)
+(https://drive.google.com/file/d/19cTe077Gzy1fRy67TOCV87jyw47X6QyO/view?usp=sharing)
 
 
 Watch this video tutorial for a step-by-step guide on getting started with Keploy.
